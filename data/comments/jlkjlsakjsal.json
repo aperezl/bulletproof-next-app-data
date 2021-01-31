@@ -6,5 +6,13 @@
     "content": "Comentario de prueba",
     "createdAt": 1612093196812,
     "id": "sTKToN6NfJG7eV0iNIi5FeYmTsP8zV"
+  },
+  {
+    "userId": "github-1758349",
+    "name": "Antonio Manuel Pérez López",
+    "avatar": "https://avatars.githubusercontent.com/u/1758349?v=4",
+    "content": "otro comentario",
+    "createdAt": 1612093208250,
+    "id": "T7aBE5RKTx9jaM39YQ0QRGBNFENDGn"
   }
 ]
